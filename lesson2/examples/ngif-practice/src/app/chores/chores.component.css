@@ -16,3 +16,8 @@ img {
     display: block;
     margin: auto;
 }
+
+#workHarder {
+  color: green;
+  text-align: center;
+}
